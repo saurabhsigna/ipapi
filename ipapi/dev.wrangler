@@ -1,0 +1,12 @@
+name = "drizzle"
+node_compat = true
+compatibility_date = "2023-01-01"
+
+
+
+
+[vars] 
+
+GOOGLE_OAUTH_CLIENT_ID = /* string here */
+GOOGLE_OAUTH_CLIENT_SECRET = /* string here */
+GOOGLE_OAUTH_REDIRECT_URI =/* string here */

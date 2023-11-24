@@ -11,8 +11,14 @@
   "tasks": {
     "start": {
       "name": "start",
-      "command": "yarn start",
-      "runAtStart": true
+      "command": "yarn start"
+    },
+    "cd ipapi && npm run dev": {
+      "name": "dev",
+      "command": "cd ipapi && npm run dev",
+      "preview": {
+        "port": 3000
+      }
     }
   }
 }
