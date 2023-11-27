@@ -8,6 +8,7 @@
   "dependencies": {
     "@planetscale/database": "^1.11.0",
     "@tsndr/cloudflare-worker-jwt": "^2.2.10",
+    "@upstash/ratelimit": "^1.0.0",
     "@upstash/redis": "^1.25.1",
     "drizzle-orm": "^0.29.0",
     "google-auth-library": "^9.2.0",
